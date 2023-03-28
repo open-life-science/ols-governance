@@ -1,7 +1,3 @@
-# Template for setting up reproducible projects
-
-*A The Turing Way inspired project to enable reproducibility in data science.*
-
 # Open Life Science (OLS) Governance Overview
 
 _OLS is a non-profit charitable company limited by guarantee, based in the United Kingdom. OLS community has engaged 400+ open science learners and practitioners from across the globe, with a commitment to improve participation of marginalised and underrepresented communities. The OLS team currently includes Yo Yehudi as an Executive Director; and Bérénice Batut, Emmy Tsang and Malvika Sharan as co-directors working in a limited capacity (see their [specific roles](https://openlifesci.org/community)). In the first iteration of formalising the first governance group (advisory and steering committee), we are drawing community leaders from the OLS network. The composition of the governance group will include individuals and representatives from the partnering organisations, ensuring representation of diverse technical expertise and geographical perspectives. For any question, concern or additional details, please email [team@openlifesci.org](mailto:team@openlifesci.org), or directly contact Malvika Sharan, Director of Partnership ([malvika@openlifesci.org](mailto:malvika@openlifesci.org))._
