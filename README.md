@@ -69,7 +69,7 @@ This repository is developed by Dr. Malvika Sharan and reviewed and maintained b
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to Malvika Sharan by emailing [malvika@openlifesci.org](mailto:msharan@turing.ac.uk).
+For any organisation related queries or concerns, you can directly reach out to Malvika Sharan by emailing [malvika@openlifesci.org](mailto:malvika@openlifesci.org).
 
 ♻️ License
 ---
