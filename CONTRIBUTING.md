@@ -2,19 +2,8 @@
 
 Thank you for taking the time to contribute to this project. 🎉
 
-<!--delete sentences below when reusing this repository-->
+This project is being developed **privately** currently with an intention to open information upon approval from all OLS governance members, inviting contributions from **anyone interested** who would like to get involved.
 
-When reusing this repository please replace the content highlighted in bold with the information that best represents your project.
-As a template, this repository can be directly copied to start a new project with standard files and processes required in any collaborative data science and research project.
-Although we also use open research practices by sharing this repository public for further reuse in different projects, users can select the appropriate license and access levels for their collaborators.
-
-To learn more about why we recommend creating a `CONTRIBUTING.md` file, please read the [Contributors and Communication Pathways chapter](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-contributors.html) in *The Turing Way* Guide for Project Design.
-
-<!--delete sentences above this line when reusing this repository-->
-
-The **Reproducible Project Template** repository is developed under ***[The Turing Way](https://github.com/alan-turing-institute/the-turing-way)* to demonstrate the practical integration of reproducibility practices on the collaborative or shared online repository**.
-
-This project is being developed **openly** and invites contributions from **anyone interested** in reproducible data science who would like to get involved.
 You can suggest topics to include in this repository, report mistakes/bugs, create Pull Requests to fix an error, offer resources or help develop or review the training materials.
 
 We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all the activities related to this project.
@@ -62,17 +51,13 @@ Please open a GitHub issue to suggest a new topic, contribute code, or let us kn
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to **Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)**.
+For any organisation related queries or concerns, you can directly reach out to **Malvika Sharan by emailing [malvika@openlifesci.org](mailto:malvika@openlifesci.org)**.
 
 ♻️ License
 ---
 
 This work is licensed under the **MIT license (code) and Creative Commons Attribution 4.0 International license (for documentation)**. 
-<!--Replace these sentences to appropriate reflect the license chosen in your project-->
 You are free to share and adapt the material for any purpose, even commercially, 
 as long as you provide attribution (give appropriate credit, provide a link to the license, 
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the 
 licensor endorses you or your use, and with no additional restrictions.
-<!--Replace these sentences to appropriate reflect the license chosen in your project-->
-
-For a more detailed contribution guideline, please check out *[The Turing Way's CONTRIBUTING.md file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)*.
