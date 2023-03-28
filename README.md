@@ -47,24 +47,38 @@ This repository is developed by Dr. Malvika Sharan and reviewed and maintained b
 🎯 Roadmap
 ---
 
-### Checklist for setting an online repository 
+**For the repository**
 
-- [ ] Add a README file
-- [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [ ] Add a [LICENSE](LICENSE.md)
-- [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [ ] Install [all-contributors](https://allcontributors.org/) bot
-- [ ] .gitignore file (choose from a template)
-- [ ] Issue templates
-* [ ] Capture OLS status overview and OLS team information
-* [ ] List of projects and reports
-* [ ] Extended members and community
-* [ ] OLS opportunities and events
-* [ ] 2023 governance proposal
-* [ ] Recruitment of members in governance group
+- [x] Add a README file
+- [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
+- [x] Add a [LICENSE](LICENSE.md)
+- [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
+- [x] Install [all-contributors](https://allcontributors.org/) bot
+- [x] .gitignore file (choose from a template)
+- [x] Issue templates
+
+**Project management directory**
+* [x] Capture OLS status overview and OLS team information
+* [x] List of projects and reports
+* [x] Extended members and community
+* [x] OLS opportunities and events
+* [x] 2023 governance proposal
+* [ ] Recruitment process of members in governance group
 * [ ] Onboarding process and documents
 * [ ] Timeline for engagement
 * [ ] Possible outcomes
+
+**Logistics: Reruitment and onboarding**
+
+* [ ] Out the plans for the governance together
+* [ ] Invite nomination from the OLS team for who should be invited in the first iteration
+* [ ] Get the OLS team to review the proposal and documents
+* [ ] Send invitation
+* [ ] Onboard them by sharing onboarding document
+* [ ] Share the next steps
+* [ ] Gather declaration for CoI and Participation
+* [ ] Set up initial meeting and identify groups
+* [ ] Initial work with inidividual groups on setting resources and drections for the four areas of work
 
 📫 Contact
 ---
