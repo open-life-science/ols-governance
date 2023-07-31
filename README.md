@@ -1,25 +1,50 @@
 # Open Life Science (OLS) Governance Overview
 
-_OLS is a non-profit charitable company limited by guarantee, based in the United Kingdom. OLS community has engaged 400+ open science learners and practitioners from across the globe, with a commitment to improve participation of marginalised and underrepresented communities. The OLS team currently includes Yo Yehudi as an Executive Director; and Bérénice Batut, Emmy Tsang and Malvika Sharan as co-directors working in a limited capacity (see their [specific roles](https://openlifesci.org/community)). In the first iteration of formalising the first governance group (advisory and steering committee), we are drawing community leaders from the OLS network. The composition of the governance group will include individuals and representatives from the partnering organisations, ensuring representation of diverse technical expertise and geographical perspectives. For any question, concern or additional details, please email [team@openlifesci.org](mailto:team@openlifesci.org), or directly contact Malvika Sharan, Director of Partnership ([malvika@openlifesci.org](mailto:malvika@openlifesci.org))._
+# OLS organisation structure and community roles document
+
+OLS (formerly Open Life Science) is a non-profit organisation for open science training and capacity building. OLS community has engaged 400+ open science learners and practitioners from across the globe through its Open Seeds training and mentoring programme. OLS is committed to improve participation of marginalised and underrepresented communities in open science and research more broadly. The OLS Core team includes an Executive Director; three Co-Directors; two full time employees, and two Resident Fellows, working across different projects in varying capacities (see 
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "their specific roles"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[their specific roles](#heading=h.z4btaswsbn2d)). For any question, concern or additional details, please email [team@openlifesci.org](mailto:team@openlifesci.org), or directly contact the Directors ([directors@openlifesci.org](mailto:directors@openlifesci.org)).
+
+As a community-based project, OLS draws mentors, facilitators and experts from the OLS community to support the mentees onboarded for each round of training and mentoring programme (Open Seeds). We provide honoraria, microgrant and seed funding available to all participants to support and incentivise their contributions to Open Science.
 
 ![Overview of Open Life Science Roles: Core Team, Advisors & Action-based roles, Cohort roles, Community of experts, mentors & learners taking different roles, Community of experts, mentors & learners taking different roles, Members leading community projects. They operate on 6 principles: Reward All (volunteer) Labor, Operational Continuity, Contextualised Approaches, Evidence & Impact Study, Collaboration & Membership, Long-term Sustainability.](figures/ols-overview.jpg)
 
 *Slide source: Sharan, M., & Sánchez-Tapia, A. (2022). Community Governance: Representation & Intersectionality with examples from Open Science Community. Zenodo. doi: [10.5281/zenodo.7038553](https://zenodo.org/record/7038553#.ZCMpYrTMKrM). [slide 24](https://docs.google.com/presentation/d/1Bg5DZt6Umh7j6LNFa1onojMow3fbUb27/edit#slide=id.g14864fe2eab_0_551)*
 
+## OLS Governance Committee: Inaugural 2023
+
+In 2023, we are formalising the OLS governance by drawing community leaders from the alumni network to form a Governance Committee. The composition of the Governance Committee includes individuals and representatives from the community and partnering organisations, ensuring representation of diverse technical expertise, individual experience and geographical perspectives.
+
+* Dr. Esther Plomp, TU Delft, The Netherlands
+* Dr. Hao Ye, University of Pennsylvania / Community for Rigor, USA
+* Dr. Sara El Gebali, SciLifeLab, FAIRPoints, Sweden
+* Anelda van der Walt, Talarify and RSSE Africa, South Africa
+* Dr Stephen Klusza, USA
+* Dr. Laura Ación, representing MetaDocencia, Argentina 
+* Laurah (Nyasita) Ondari, representing the Bioinformatics Hub Kenya, Kenya
+* Dr. Batool Almarzouq, representing Open Science Saudi Arabia, UK/Saudi Arabia
+* Saranjeet Kaur Bhogal, representing RSE Asia Association, India
+* Rowland Mosbergen, Australia
+
 ## Operating principles
 
-*The governance of Open Life Science (OLS) is designed around six principles **that centres diversity/intersectionality, equity, inclusion, collaboration and accessibility*:
+The governance of OLS is designed around six principles **that centres diversity/intersectionality, equity, inclusion, collaboration and accessibility**:
 
-1. Recognise and reward all (volunteer) labour!
-2. Ensure operational continuity of OLS services
+1. Recognise and reward all, speicifically volunteer and hidden, labour in open science
+2. Ensure operational continuity of OLS core services
 3. Integrate contextual approaches in all engagements
 4. Establish evidence-based practices through research and impact study
 5. Build collaboration across open science projects and community members
 6. Embed long-term sustainability processes and values in all our work
 
+## Updates from the Governance Process
+
 In this repository, we describe the governance status and decsion-making process of Open Life Science.
 
-## Repo Structure
+### Repo Structure
 
 Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science)
 
@@ -59,21 +84,20 @@ This repository is developed by Dr. Malvika Sharan and reviewed and maintained b
 * [x] Extended members and community
 * [x] OLS opportunities and events
 * [x] 2023 governance proposal
-* [ ] Recruitment process of members in governance group
-* [ ] Onboarding process and documents
-* [ ] Timeline for engagement
+* [x] Recruitment process of members in governance group
+* [x] Onboarding process and documents
+* [x] Timeline for engagement
 * [ ] Possible outcomes
 
 **Logistics: Reruitment and onboarding**
 
-* [ ] Out the plans for the governance together
-* [ ] Invite nomination from the OLS team for who should be invited in the first iteration
-* [ ] Get the OLS team to review the proposal and documents
-* [ ] Send invitation
-* [ ] Onboard them by sharing onboarding document
-* [ ] Share the next steps
-* [ ] Gather declaration for CoI and Participation
-* [ ] Set up initial meeting and identify groups
+* [x] Outline the plans for the governance
+* [x] Invite nomination from the OLS team for who should be invited in the first iteration
+* [x] Get the OLS team to review the proposal and documents
+* [x] Send invitation
+* [x] Onboard them by sharing onboarding document
+* [x] Gather declaration for CoI and Participation
+* [x] Set up initial meeting and identify next steps
 * [ ] Initial work with inidividual groups on setting resources and drections for the four areas of work
 
 📫 Contact
