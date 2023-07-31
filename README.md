@@ -2,7 +2,7 @@
 
 # OLS organisation structure and community roles document
 
-OLS (formerly Open Life Science) is a non-profit organisation for open science training and capacity building. OLS community has engaged 400+ open science learners and practitioners from across the globe through its Open Seeds training and mentoring programme. OLS is committed to improve participation of marginalised and underrepresented communities in open science and research more broadly. The OLS Core team includes an Executive Director; three Co-Directors; two full time employees, and two Resident Fellows, working across different projects in varying capacities (read details in [OLS Team and Organisation](docs/ols-team-org.md))
+OLS (formerly Open Life Science) is a non-profit organisation for open science training and capacity building. OLS community has engaged 400+ open science learners and practitioners from across the globe through its Open Seeds training and mentoring programme. OLS is committed to improve participation of marginalised and underrepresented communities in open science and research more broadly. The OLS Core team includes an Executive Director; three Co-Directors; two full time employees, and two Resident Fellows, working across different projects in varying capacities (read details in [OLS Team and Organisation](docs/ols-team-organisation.md))
 
 For any question, concern or additional details, please email [team@openlifesci.org](mailto:team@openlifesci.org), or directly contact the Directors ([directors@openlifesci.org](mailto:directors@openlifesci.org)).
 
