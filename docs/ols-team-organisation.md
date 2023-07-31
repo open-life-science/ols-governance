@@ -4,20 +4,20 @@
 
 Board members, OLS staff and Resident Fellows together constitute the OLS Core team: [https://openlifesci.org/community](https://openlifesci.org/community). 
 
-1. **Board of Directors: **The people collectively responsible for governing and leadership of our organisation through strategic policy direction and financial oversight. They carry out their role in conjunction with an advisory committee and other key members of their organisation. In this document, we use “core team” to refer to the Board of Directors.
+1. **Board of Directors**: The people collectively responsible for governing and leadership of our organisation through strategic policy direction and financial oversight. They carry out their role in conjunction with an advisory committee and other key members of their organisation. In this document, we use “core team” to refer to the Board of Directors.
     * Yo Yehudi, Executive Director and Business and Development Lead (0.6 FTE)
     * Bérénice Batut, Director of Learning and Technology  (0.2 FTE)
     * Malvika Sharan, Director of Partnerships and Strategy  (0.1 FTE)
     * Emmy Tsang, Director of Finance and Operation  (0.1 FTE)
-2. **OLS Staff/Employee: **All paid members (full or part-time positions) as Directors, programme/project managers and researchers are considered OLS staff. Currently, this includes the Executive Director, Co-Directors, Programme Manager, Community Coordinator and Researchers, and excludes the Resident Fellows and/or board of directors who are not paid (as employees or via contracts).
+2. **OLS Staff/Employee**: All paid members (full or part-time positions) as Directors, programme/project managers and researchers are considered OLS staff. Currently, this includes the Executive Director, Co-Directors, Programme Manager, Community Coordinator and Researchers, and excludes the Resident Fellows and/or board of directors who are not paid (as employees or via contracts).
     * Paz Bernaldo, Community Researcher and Programme Coordinator (1 FTE)
     * Tajuddeen Gwadabe, Programme Manager - ECB project (1 FTE)
-3. **Resident Fellows: **OLS hosts Resident Fellows from previous graduates, mentors and/or collaborators in ongoing projects. Fellows are recruited on a rolling basis based on their areas of interest in open science that aligns with OLS’ vision for open science capacity building. These are paid positions and defined in collaboration with the OLS team. Based on the available funding, OLS can host a limited number of fellows at a time. This pathway is also open through collaborative grant proposals for funding from resources outside the OLS. Resident Fellows work as a part of the OLS team, participating in OLS activities and carrying out responsibilities that allow them to build their professional and leadership experience, providing a stronger foundation for future leadership roles.
+3. **Resident Fellows**: OLS hosts Resident Fellows from previous graduates, mentors and/or collaborators in ongoing projects. Fellows are recruited on a rolling basis based on their areas of interest in open science that aligns with OLS’ vision for open science capacity building. These are paid positions and defined in collaboration with the OLS team. Based on the available funding, OLS can host a limited number of fellows at a time. This pathway is also open through collaborative grant proposals for funding from resources outside the OLS. Resident Fellows work as a part of the OLS team, participating in OLS activities and carrying out responsibilities that allow them to build their professional and leadership experience, providing a stronger foundation for future leadership roles.
     * Mayya Sundukova
     * Patricia Herterich
     * Resident Fellow on a specific project (not involved in operational activities with the Core OLS Team):
         1. Flavio Azevedo 
-4. **Contractors and interns: **Hired to manage the project related requirements and based on budget availability.
+4. **Contractors and interns**: Hired to manage the project related requirements and based on budget availability.
     * Camille Gonzalez, Executive Assistant (part time)
     * Deborah Udoh, Junior Web Developer 
     * Bethan Ilay, community manager - FORRT
@@ -67,23 +67,22 @@ Reporting obligations for the OLS is bound to the funder’s requirements. Annua
 * 2021: [https://zenodo.org/record/5907922](https://zenodo.org/record/5907922) 
 * 2020: [https://zenodo.org/record/4778472](https://zenodo.org/record/4778472) 
 
-
 ## Opportunities and Events
 
 These various roles within OLS communities allow and facilitate discussions around intersectional Identities, lived experience and contextual realities of our members in the process of participation, creation, sharing and access of open science practices, resources and infrastructure.
 
 To enable collaboration of diverse community members, OLS offers following opportunities and events:
 
-### OLS Extended Members
+### OLS Extended Membership
 
-5. **OLS-SSI Fellows: **OLS has collaborated with the Software Sustainability Institute (SSI) to host a limited number of OLS Alumni as OLS-SSI fellows in SSI Fellow networks. This is a sponsorship agreement that is paid for by SSI to offer fellowship (of £3000 to each fellow) to a larger pool of international fellows who qualify through the rigorous selection process of SSI fellowship.
+5. **OLS-SSI Fellows**: OLS has collaborated with the Software Sustainability Institute (SSI) to host a limited number of OLS Alumni as OLS-SSI fellows in SSI Fellow networks. This is a sponsorship agreement that is paid for by SSI to offer fellowship (of £3000 to each fellow) to a larger pool of international fellows who qualify through the rigorous selection process of SSI fellowship.
     * Reina Camacho Toro
     * Melissa Black
     * Andrea Sanchez Tapia
 6. **Internship network**
     * Outreachy Interns
     * Direct internship with OLS
-7. **Working groups, task forces and Community-led Research: **Different working groups and task forces are organised based on different needs emerging in the project:
+7. **Working groups, task forces and Community-led Research**: Different working groups and task forces are organised based on different needs emerging in the project:
     * Localisation 2021
         * Batool Almarzouq and Anelda van der Walt established a localisation workflow to translate and disseminate OLS materials for learners in Middle East and North African countries
     * OLS-based Cohort project (data and survey analysis): 2021-present
@@ -97,7 +96,7 @@ To enable collaboration of diverse community members, OLS offers following oppor
         * Interview panel: Laura Ación, Irene Ramos, Bruno Soares
         * Job Description: Alex Kutschera, Andre Chagas, Anelda van der Walt, Hao Ye, Jez Cope, Julieta Arancio, Mallory Freeberg, Manuel Spitschan and Rowland Mosbergen
 
-### Cohort-based roles: OLS Fellows/Alumni
+### Open Seeds' Cohort-based roles
 
 16-week long cohorts of open science training and mentoring are the main services offered by OLS. The participant structure of cohort calls include the following:
 
@@ -107,6 +106,8 @@ To enable collaboration of diverse community members, OLS offers following oppor
 4. Cohort project leads (mentees/learners)
 5. Mentors
 6. OLS experts
+
+All graduates are called OLS fellows and can use OLS affiliation for funding, publication or any other public engagement activities.
 
 ### Cohort specific opportunities
 
@@ -137,5 +138,5 @@ Find details: [https://openlifesci.org/about](https://openlifesci.org/about)
 * New Zealand and Australia
 * North Americas
 
-
+A link to Shinyapp to browse the cohorts' geographical distribution will be added here.
 
