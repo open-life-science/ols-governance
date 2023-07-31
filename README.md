@@ -2,11 +2,9 @@
 
 # OLS organisation structure and community roles document
 
-OLS (formerly Open Life Science) is a non-profit organisation for open science training and capacity building. OLS community has engaged 400+ open science learners and practitioners from across the globe through its Open Seeds training and mentoring programme. OLS is committed to improve participation of marginalised and underrepresented communities in open science and research more broadly. The OLS Core team includes an Executive Director; three Co-Directors; two full time employees, and two Resident Fellows, working across different projects in varying capacities (see 
+OLS (formerly Open Life Science) is a non-profit organisation for open science training and capacity building. OLS community has engaged 400+ open science learners and practitioners from across the globe through its Open Seeds training and mentoring programme. OLS is committed to improve participation of marginalised and underrepresented communities in open science and research more broadly. The OLS Core team includes an Executive Director; three Co-Directors; two full time employees, and two Resident Fellows, working across different projects in varying capacities (read details in [OLS Team and Organisation](docs/ols-team-org.md))
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "their specific roles"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[their specific roles](#heading=h.z4btaswsbn2d)). For any question, concern or additional details, please email [team@openlifesci.org](mailto:team@openlifesci.org), or directly contact the Directors ([directors@openlifesci.org](mailto:directors@openlifesci.org)).
+For any question, concern or additional details, please email [team@openlifesci.org](mailto:team@openlifesci.org), or directly contact the Directors ([directors@openlifesci.org](mailto:directors@openlifesci.org)).
 
 As a community-based project, OLS draws mentors, facilitators and experts from the OLS community to support the mentees onboarded for each round of training and mentoring programme (Open Seeds). We provide honoraria, microgrant and seed funding available to all participants to support and incentivise their contributions to Open Science.
 
