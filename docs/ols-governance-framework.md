@@ -58,7 +58,7 @@ The board of OLS include the founders and organisers of OLS who became involved 
 As of September 2023, there are four directors: 
 
 * **Executive Director.** Responsible for overall business and development while overseeing the execution of (or directly executing as needed) the OLS' goals according to its vision and mission. The current Executive Director is Yo Yehudi, who is working at 0.6 FTE.
-* **Director of Finance and Operations: **Responsible for overseeing the finance management and operational workflow including budgeting, payment system and community investments. The current Director of Finance and Operations is Emmy Tsang, who is working at 0.1 FTE.
+* **Director of Finance and Operations:** Responsible for overseeing the finance management and operational workflow including budgeting, payment system and community investments. The current Director of Finance and Operations is Emmy Tsang, who is working at 0.1 FTE.
 * **Director Partnership and Strategy:** Responsible for the organisation’s strategic development through formalising partnerships, community governance and research opportunities in collaboration with community stakeholders. The current Director of Partnership and Strategy is Malvika Sharan, who is working at 0.1 FTE.
 * **Director of Technology and Learning:** Responsible for the development of the pedagogical and technical aspects of learning/training infrastructure including web development, data management and learning resources. The current Director of Technology and Learning is Bérénice Batut, who is working at 0.2 FTE.
 
