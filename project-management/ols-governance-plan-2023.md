@@ -10,7 +10,7 @@
 * New Zealand and Australia
 * North Americas
 
-## Governance Groups: proposed for different iterations
+## Governance Groups: proposed for different iterations - Outdated and not applied
 
 ### Advisor and Steering roles (Invited individuals)
 
