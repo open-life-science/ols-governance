@@ -18,7 +18,8 @@ A person is considered to be actively participating in the Committee  if they we
 
 Absence or inactivity is defined as missing more than one of the scheduled meetings. Not fulfilling the Committee’s responsibilities means not participating actively (synchronously or asynchronously) in the Committee’s work, which includes process review, Committee meetings, voting and decision-making work undertaken by the Committee. 
 
-Exceptions to these definitions may be contemplated for absences due to unforeseeable circumstances. The Board and Committee should be informed for awareness and record keeping. 
+Exceptions to these definitions are always welcome to ensure inclusivity and accessibility for all our members.
+A reasonable extension of review work to accommodate access requirements, personal schedules, reasonable absences or unforeseeable circumstances can be requested. The Board and Committee should be informed for awareness and record keeping. 
 
 In case of prolonged inactivity, inability or resignation of any member of the Committee, the position shall be considered vacant and an extraordinary meeting shall be called to propose new profiles to complete the office term.
 
