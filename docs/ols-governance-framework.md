@@ -12,7 +12,7 @@ Together, these members build and operationalise OLS's Governance Framework, bui
 
 *Title: The governance framework of OLS encompasses a Governance Committee composed of OLS' community members and the Board of Directors (with 1-2 acting as Organisation Liaison), along with an Organization Secretariat from the OLS team. This Miro Board visually represents how these members interact with each other, ensuring that community interests are well-represented in the decision-making process and that transparency around their work is maintained. This Illustration was developed by the Committee on Miro Board in 2023: [https://miro.com/app/board/uXjVMo-DiLc=/](https://miro.com/app/board/uXjVMo-DiLc=/)*
 
-## Short Role Description
+## Short Description of Roles in OLS
 
 The Board and Committee together form OLS’ governance structure and participate in the decision-making process.
 
