@@ -6,7 +6,7 @@ The Governance Committee (Committee) should be composed of OLS community members
 
 The Committee is supported by the OLS Team, consisting of 1-2 OLS Liaisons designated from the OLS Board and a non-director member as an Organization Secretariat, invited from the OLS team (which includes non-director staff, resident fellows, and other paid staff).
 
-Together, these members form OLS's Governance Framework, building transparency and accountability in OLS' work and decision-making processes that affect the community, enabling a fair, equitable, and more representative space.
+Together, these members build and operationalise OLS's Governance Framework, building transparency and accountability in OLS' work and decision-making processes that affect the community, enabling a fair, equitable, and more representative space.
 
 ![Miro board screenshot that shows relation between different OLS members - explained below](/figures/ols-gov-framework.png)
 
