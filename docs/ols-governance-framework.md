@@ -49,9 +49,9 @@ The [OLS Code of Conduct](https://github.com/open-life-science/policies-procedur
 
 ### Board of Directors
 
-**Board of Directors is a governing body made up of a group of individuals who, together, are authorised and ultimately responsible for the management of an organisation. They are delegated with leadership responsibilities required to make sure that the organisation is working towards achieving its goals. 
+The Board of Directors is a governing body made up of a group of individuals who, together, are authorised and ultimately responsible for the management of an organisation. They are delegated with leadership responsibilities required to make sure that the organisation is working towards achieving its goals. 
 
-⚠️_The Board of Directors or Board are collectively responsible for governance and leadership of OLS organisation through strategic policy direction and financial oversight. They carry out their role in conjunction with an advisory committee and other key members of their organisation._
+⚠️ _The Board of Directors or Board are collectively responsible for governance and leadership of OLS organisation through strategic policy direction and financial oversight. They carry out their role in conjunction with an advisory committee and other key members of their organisation._
 
 The board of OLS include the founders and organisers of OLS who became involved in the OLS leadership between 2019-2021. Since 2022, these members have taken on formalised roles in a paid capacity in 2022-2023 to be paid or recompensed for their work on OLS’ delivery and leadership objectives. The Board is responsible for delivering on the overall strategy, operations and leadership objectives with the advisory support from the Governance Committee.  
 
@@ -66,7 +66,7 @@ The Board is  ultimately responsible for all the functions that may arise as nec
 
 ### Governance Committee (Committee)
 
-⚠️_Governance Committee (Committee) is a key membership in OLS. A key member in OLS refers to a member of volunteer leadership roles such as a member of the Governance Committee and other key non-employee groups that are formally established with the approval of the leadership. In OLS, we have tried to be as explicit as possible when defining roles and responsibilities. In some cases, OLS key members can elect a representative or chairperson to represent their interests in official meetings related to the organisation. OLS key members in our organisation may come from different forms, there is no one model. The guidelines here may not apply as is to members of the volunteer community or employees._
+⚠️ _Governance Committee (Committee) is a key membership in OLS. A key member in OLS refers to a member of volunteer leadership roles such as a member of the Governance Committee and other key non-employee groups that are formally established with the approval of the leadership. In OLS, we have tried to be as explicit as possible when defining roles and responsibilities. In some cases, OLS key members can elect a representative or chairperson to represent their interests in official meetings related to the organisation. OLS key members in our organisation may come from different forms, there is no one model. The guidelines here may not apply as is to members of the volunteer community or employees._
 
 OLS as an organisation is made accountable to a broader community through the involvement of the Governance Committee, referred to as Committee in this document. The board relies on the Committee to continue offering OLS services to the community. The committee will provide advisory support, feedback and recommendations for the OLS team in alignment with OLS’ missions and obligations.
 
