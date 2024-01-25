@@ -1,5 +1,40 @@
 # Committee Participation and Membership
 
+## Overview of Duties and Involvements of the Committee
+
+The duties and functions of the OLS Governance Committee are integral to ensuring the effective governance, transparency, and sustainability of the Open Leadership Society. Their involvements can be broadly described under the following bullet points:
+
+1. **Read and Submit Documents:**
+    * Read the onboarding document.
+    * Familiarise themselves with OLS organisational structure, annual reports, and priority areas.
+    * Sign and submit the declaration of participation and Conflict of Interest forms.
+2. **Access and Collaboration:**
+    * Ensure access to Governance Committee emails, shared drives, and GitHub repositories for governance documents.
+    * Engage in asynchronous communication through Slack workspaces.
+3. **Participation and voting in Meetings:**
+    * Actively participate in governance meetings and contribute to the discussions, review and voting process.
+    * Contribute to ongoing discussions and help build transparency in OLS' work.
+    * Monitor and respond to governance-related actions during meetings, or via email and Slack.
+4. **Compliance and Enforcement:**
+    * Ratify, know, comply with, and enforce OLS participation guidelines and Code of Conduct.
+    * Agree with and carry out their roles as a Committee member and assist in building transparency, accountability and advisory support for the OLS Board.
+5. **Advisory support and recommendations:**
+    * Provide advisory support on OLS activities and make recommendations for the improvement, maintenance, and sustainability of OLS' work.
+    * Provide advisory support in building general policies to formalise community processes.
+    * Provide recommendations for creating economic sustainability by recommending participation in funding opportunities.
+6. **Feedback to the OLS Board:**
+    * Share feedback with the OLS Board through formal and informal channels, synchronously or asynchronously in their capacity as the Committee members
+    * Give feedback on and approve annual reports and the organisation’s transparency documents.
+    * Evaluate the strategic orientation of the OLS Team and provide constructive feedback to align OLS' work to their goals and priorities..
+7. **Election Process:**
+    * Help in the election of new Committee members.
+    * Suggest and nominate new members for the Committee.
+8. **Representation:**
+    * Present OLS, based on availability, at national, regional, and international conferences and events.
+    * Build links with other communities to enhance collaboration and support.
+9. **Offboarding:**
+    * Participate in the offboarding process if stepping down or rotating off.
+
 ## Active participation
 
 A person is considered to be actively participating in the Committee  if they were present in at least 75% of the annual meetings. It is intended and expected that each member of the Committee will notify the Chair and the Board Liaison, via Slack or other communication channels set by the OLS team if circumstances do not allow them to meet the minimum required dedication (approximately 2-4 hours per month) to vote and/or carry out the tasks at any time during the year. The Committee Chair and Board Liaison will keep a record open to the rest of the Committee of absent and/or inactive persons.
