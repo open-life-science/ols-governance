@@ -3,7 +3,7 @@
 The founders and Co-Directors of OLS referred to as the OLS Board (or simply Board), provide leadership in OLS. 
 An Executive Director of OLS, with appropriate involvement of co-directors and team members taking leadership across different areas of OLS' work, is responsible for governing OLS in line with organizational priorities and commitments. 
 
-The Board carries out their role in conjunction with a Governance Committee that provides advisory support to the Board.
+The Board carries out its role in conjunction with a Governance Committee that provides advisory support.
 
 The Governance Committee (Committee) should be composed of OLS community members from diverse backgrounds, identities, and experiences who can participate in an advisory capacity. There will be a minimum of five Committee Members, but the exact number may vary in each revision of the OLS Governance. The inaugural Committee in 2023 consisted of 10 members.
 
