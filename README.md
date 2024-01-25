@@ -26,7 +26,7 @@ The OLS Governance Committee (referred to as ‘Committee’ hereafter) is a ded
 * Rowland Mosbergen, Practical Diversity and Inclusion Project, New Zealand 
 * Dr. Sara El Gebali, FAIRPoints Project, Sweden
 * Saranjeet Kaur Bhogal, RSE Asia Association and Research Software Alliance, India
-* Dr Stephen Klusza**, **Atlanta Metropolitan State College, Adjunct Faculty and Laboratory Professional for Biology, USA 
+* Dr Stephen Klusza, Atlanta Metropolitan State College, Adjunct Faculty and Laboratory Professional for Biology, USA 
 
 ## Framework for Community Involvement (2023-2025)
 
