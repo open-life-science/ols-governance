@@ -18,15 +18,15 @@ The OLS Governance Committee (referred to as ‘Committee’ hereafter) is a ded
 ### Committee Members: June 2023-Present
 
 * Anelda van der Walt, Talarify and RSSE Africa, South Africa
-* Dr. Batool Almarzouq, representing Open Science Saudi Arabia, UK
-* Dr. Esther Plomp, TU Delft, The Netherlands
-* Dr. Hao Ye, University of Pennsylvania / Community for Rigor, USA
-* Dr. Laura Ación, MetaDocencia, Argentina 
+* Batool Almarzouq, representing Open Science Saudi Arabia, UK
+* Esther Plomp, TU Delft, The Netherlands
+* Hao Ye, University of Pennsylvania / Community for Rigor, USA
+* Laura Ación, MetaDocencia, Argentina 
 * Laurah Ondari, Bioinformatics Hub of Kenya initiative (BHKi), Kenya
 * Rowland Mosbergen, Practical Diversity and Inclusion Project, New Zealand 
-* Dr. Sara El Gebali, FAIRPoints Project, Sweden
+* Sara El Gebali, FAIRPoints Project, Sweden
 * Saranjeet Kaur Bhogal, RSE Asia Association and Research Software Alliance, India
-* Dr Stephen Klusza, Atlanta Metropolitan State College, Adjunct Faculty and Laboratory Professional for Biology, USA 
+* Stephen Klusza, Atlanta Metropolitan State College, Adjunct Faculty and Laboratory Professional for Biology, USA 
 
 ## Framework for Community Involvement (2023-2025)
 
