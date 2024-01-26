@@ -22,7 +22,7 @@ The OLS Governance Committee (referred to as ‘Committee’ hereafter) is a ded
 * Hao Ye, University of Pennsylvania / Community for Rigor, USA
 * Laura Ación, MetaDocencia, Argentina 
 * Laurah Ondari, Bioinformatics Hub of Kenya initiative (BHKi), Kenya
-* Rowland Mosbergen, Practical Diversity and Inclusion Project, New Zealand 
+* Rowland Mosbergen, Practical Diversity and Inclusion Project, Australia
 * Sara El Gebali, FAIRPoints Project, Sweden
 * Saranjeet Kaur Bhogal, RSE Asia Association and Research Software Alliance, India
 * Stephen Klusza, Atlanta Metropolitan State College, Adjunct Faculty and Laboratory Professional for Biology, USA
@@ -62,7 +62,7 @@ The OLS Governance Committee (referred to as ‘Committee’ hereafter) is a ded
     * Ensure a transparent and fair process for selecting individuals.
     * Consider criteria such as active participation, leadership, and commitment to OLS values.
 2. **Continuation of Leadership:**
-    * Ensure a smooth transition for part of the Committee from 2024, and fill seats with members who wish to start their roles in 2025 for the next 1 - 2 years.
+    * Ensure a smooth transition (rotating some members in, others out) for part of the Committee from 2024, and fill seats with members who wish to start their roles in 2025 for the next 1 - 2 years.
     * Foster a sense of continuity in governance and decision-making.
 
 ## **Overall Considerations:**
