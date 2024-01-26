@@ -71,7 +71,7 @@ Three months before the ending (end of a 2-year term), members will be asked to 
 * At the end of 1 year of their service, a committee member can decide to continue their membership for another 6-12 months (going up to 2 years).
    * Members will indicate their preference for membership extension at a Governance Committee meeting and get internal approval from the rest of the Committee members.
    * This staggered rotating off will be encouraged to avoid the whole board rotating off all at once. The Committee liaison will record the continuation of membership for additional months. No further action is required. 
-* The maximum term length is 2 years, after which a Committee member can re-enter the open election, but will not be automatically extended for one more full term (another 2 years), but third-time entry to the election should be avoided. This will allow a fair opportunity for community members interested in joining the Committee.
+* The maximum term length is 2 years, after which a Committee member can re-enter the open election, but will not be automatically extended for one more full term (another 2 years). A third-time entry to the election should be avoided. This will allow a fair opportunity for community members interested in joining the Committee.
 * A member can step down at any time from the Committee if they can no longer serve as a member of the Committee.
 
 ### Stepping down as a Committee Member
