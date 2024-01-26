@@ -24,7 +24,7 @@ Between regular meetings, the Board may share an asynchronous informal update to
 
 ## Committee's Decision Making
 
-**Voting and Consensus Building** To encourage the voice and input of those who actively participate in the Committee, two modes of decision-making through consensus building and voting will be enabled, one synchronous and the other asynchronous. Anonymity may not be possible for either modality, in case anonymity is needed ….
+**Voting and Consensus Building** To encourage the voice and input of those who actively participate in the Committee, two modes of decision-making through consensus building and voting will be enabled, one synchronous and the other asynchronous. Anonymity may not be possible for either modality, but only the outcomes will be openly shared with the community. 
 
 **Informed voting.** To encourage informed voting, the Committee is committed to addressing the items by listening to all voices, and considering both arguments for and against, in both voting modalities.
 
