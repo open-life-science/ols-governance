@@ -14,7 +14,6 @@ As a community-based project, OLS draws mentors, facilitators and experts from t
 
 The OLS Governance Committee (referred to as ‘Committee’ hereafter) is a dedicated group of individuals appointed to provide strategic oversight and guidance in shaping the governance framework of OLS. This committee provides advisory support in decision-making, transparency, and sustainability within OLS. 
 
-
 ### Committee Members: June 2023-Present
 
 * Anelda van der Walt, Talarify and RSSE Africa, South Africa
@@ -26,7 +25,14 @@ The OLS Governance Committee (referred to as ‘Committee’ hereafter) is a ded
 * Rowland Mosbergen, Practical Diversity and Inclusion Project, New Zealand 
 * Sara El Gebali, FAIRPoints Project, Sweden
 * Saranjeet Kaur Bhogal, RSE Asia Association and Research Software Alliance, India
-* Stephen Klusza, Atlanta Metropolitan State College, Adjunct Faculty and Laboratory Professional for Biology, USA 
+* Stephen Klusza, Atlanta Metropolitan State College, Adjunct Faculty and Laboratory Professional for Biology, USA
+
+### Organisation Liaisons and Secretary
+
+* Patricia Herterich, Organisation Secretary
+
+* Malvika Sharan, Organisation Liaison
+* Yo Yehudi, Organisation Liaison
 
 ## Framework for Community Involvement (2023-2025)
 
