@@ -1,6 +1,6 @@
 # Opportunities and Events
 
-These various roles within OLS communities allow and facilitate discussions around intersectional Identities, lived experience and contextual realities of our members in the process of participation, creation, sharing and access of open science practices, resources and infrastructure.
+These various roles within OLS communities allow member to participate in various capacities. Events and opportunities are designed to facilitate training, experiential learning and discussions around open science that embeds contextual realities of our members as they create, share, access or collaborate on open science projects, resources and infrastructure.
 
 To enable collaboration of diverse community members, OLS offers following opportunities and events:
 
