@@ -4,7 +4,7 @@ OLS (formerly Open Life Science) is a non-profit organisation for open science t
 
 For any questions, concerns or additional details, please email [team@openlifesci.org](mailto:team@openlifesci.org), or directly contact the Directors ([directors@openlifesci.org](mailto:directors@openlifesci.org)).
 
-As a community-based project, OLS draws mentors, facilitators and experts from the OLS community to support the mentees onboarded for each round of training and mentoring programme (Open Seeds). We provide honoraria, microgrants and seed funding available to all participants to support and incentivise their contributions to Open Science.
+As a community-based project, OLS draws mentors, facilitators and experts from the OLS community to support the mentees onboarded for each round of the training and mentoring programme (Open Seeds). We provide honoraria, microgrants and seed funding available to all participants to support and incentivise their contributions to Open Science.
 
 ![Overview of Open Life Science Roles: Core Team, Advisors & Action-based roles, Cohort roles, Community of experts, mentors & learners taking different roles, Community of experts, mentors & learners taking different roles, Members leading community projects. They operate on 6 principles: Reward All (volunteer) Labor, Operational Continuity, Contextualised Approaches, Evidence & Impact Study, Collaboration & Membership, Long-term Sustainability.](figures/ols-overview.jpg)
 
@@ -25,7 +25,7 @@ The OLS Governance Committee (referred to as ‘Committee’ hereafter) is a ded
 * Rowland Mosbergen, Practical Diversity and Inclusion Project, Australia
 * Sara El Gebali, FAIRPoints Project, Sweden
 * Saranjeet Kaur Bhogal, RSE Asia Association and Research Software Alliance, India
-* Stephen Klusza, Atlanta Metropolitan State College, Adjunct Faculty and Laboratory Professional for Biology, USA
+* Stephen Klusza, Clayton State University as an assistant professor of Biology, USA
 
 ### Organisation Liaisons and Secretary
 
@@ -165,7 +165,8 @@ This repository is developed by Dr. Malvika Sharan and reviewed and maintained b
 * [x] Recruitment process of members in governance group
 * [x] Onboarding process and documents
 * [x] Timeline for engagement
-* [ ] Possible outcomes
+* [x] Governance documentation
+* [ ] Set process for transparency for the community feedback
 
 **Logistics: Recruitment and onboarding**
 
@@ -173,10 +174,11 @@ This repository is developed by Dr. Malvika Sharan and reviewed and maintained b
 * [x] Invite nomination from the OLS team for who should be invited in the first iteration
 * [x] Get the OLS team to review the proposal and documents
 * [x] Send invitation
-* [x] Onboard them by sharing onboarding document
+* [x] Onboard them by sharing the onboarding document
 * [x] Gather declaration for CoI and Participation
-* [x] Set up initial meeting and identify next steps
-* [ ] Initial work with inidividual groups on setting resources and drections for the four areas of work
+* [x] Set up the initial meeting and identify the next steps
+* [x] Phase 1: Initial work with individual groups on setting resources and directions for their areas of work
+* [ ] Phase 2: Start recommendation and feedback from January 2024
 
 📫 Contact
 ---
