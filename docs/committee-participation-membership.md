@@ -25,7 +25,7 @@ The duties and functions of the OLS Governance Committee are integral to ensurin
 6. **Feedback to the OLS Board:**
     * Share feedback with the OLS Board through formal and informal channels, synchronously or asynchronously in their capacity as the Committee members
     * Give feedback on and approve annual reports and the organisation’s transparency documents.
-    * Evaluate the strategic orientation of the OLS Team and provide constructive feedback to align OLS' work to their goals and priorities..
+    * Evaluate the strategic orientation of the OLS Team and provide constructive feedback to align OLS' work to their goals and priorities.
 7. **Election Process:**
     * Help in the election of new Committee members.
     * Suggest and nominate new members for the Committee.
@@ -48,7 +48,7 @@ A person is considered to be actively participating in the Committee  if they we
 * **OLS Board Liaison and Secretary:** The Governance Committee will have 1-2 OLS Board representatives to support the operational and decision-making process (transparency, policy, communications), provide admin support (such as organising meetings and maintaining documentation), ensure information flow as well as timely feedback between the OLS team and the Committee. A non-director member of the OLS team will be designated as an organisation secretary. They provide operational support to Liaison in ensuring their work with the committee is timely conducted.
     * They will not participate in the voting and consensus-building process of the Committee.
     * The level of involvement of the OLS Liaisons can be requested by the committee as needed to support their work. 
-* **OLS roles to support governance work in paid capacity:** Additional paid roles can be created to act on Committee's recommendations,  especially if the OLS Board and core team is unable to fulfil them within the scope of their roles. These roles will depend on the urgency as identified by the Committee and Board collectively and subjected to funding availability. These roles could provide additional support in designing governance activities, documenting governance resources, acting on specific recommendations made by the committee, leading advocacy work or participating in the organisational work required to advance the governance work in OLS such as providing admin support, ensuring knowledge exchange and timely feedback to the OLS Leadership team.
+* **OLS roles to support governance work in paid capacity:** Additional paid roles can be created to act on the Committee's recommendations,  especially if the OLS Board and core team is unable to fulfil them within the scope of their roles. These roles will depend on the urgency as identified by the Committee and Board collectively and subjected to funding availability. These roles could provide additional support in designing governance activities, documenting governance resources, acting on specific recommendations made by the committee, leading advocacy work or participating in the organisational work required to advance the governance work in OLS such as providing admin support, ensuring knowledge exchange and timely feedback to the OLS Leadership team.
 
 ## Absence/inactivity or not fulfilling the Committee’s responsibilities
 
@@ -62,7 +62,7 @@ In case of prolonged inactivity, inability or resignation of any member of the C
 ## Continuation of membership
 
 It is assumed that each member has agreed to serve for a minimum of 1 year or a full term of 2 years.
-They will be required to declare a Conflict of Interest on an ongoing basis (every 6 months).
+They will be asked to confirm their continuation, if not already communicated and declare their Conflict of Interest on an ongoing basis (every 6 months).
 
 Three months before the ending (end of a 2-year term), members will be asked to indicate their wish to nominate/stand for re-election or step down from the Committee at the end of their ongoing membership. Committee members should let the full Committee know before an upcoming meeting.
 
