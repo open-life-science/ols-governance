@@ -37,7 +37,7 @@ The duties and functions of the OLS Governance Committee are integral to ensurin
 
 ## Active participation
 
-A person is considered to be actively participating in the Committee  if they were present in at least 75% of the annual meetings. It is intended and expected that each member of the Committee will notify the Chair and the Board Liaison, via Slack or other communication channels set by the OLS team if circumstances do not allow them to meet the minimum required dedication to vote and/or carry out the tasks at any time during the year. The Committee Chair and Board Liaison will keep a record open to the rest of the Committee of absent and/or inactive persons.
+A person is considered to be actively participating in the Committee  if they were present in at least 75% of the annual meetings hosted in their time zones. It is intended and expected that each member of the Committee will notify the Chair and the Board Liaison, via Slack or other communication channels set by the OLS team if circumstances do not allow them to meet the minimum required dedication to vote and/or carry out the tasks at any time during the year. The Committee Chair and Board Liaison will keep a record open to the rest of the Committee of absent and/or inactive persons.
 
 * **Time commitment:** The minimum requirement is 1.5 hours per month for OLS meetings, plus additional time before or after to complete preparatory work or address delegated actions from the meeting. The suggested time commitment for each member in this role can thus be estimated at 2-4 hours per month. This may vary throughout the year based on the tasks undertaken by the Governance Committee.
 * **Term length:** Ideally, term lengths of 1-2 years; see details below.
