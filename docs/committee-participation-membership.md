@@ -23,7 +23,7 @@ The duties and functions of the OLS Governance Committee are integral to ensurin
     * Provide advisory support in building general policies to formalise community processes.
     * Provide recommendations for creating economic sustainability by recommending participation in funding opportunities.
 6. **Feedback to the OLS Board:**
-    * Share feedback with the OLS Board through formal and informal channels, synchronously or asynchronously in their capacity as the Committee members
+    * Share feedback with the OLS Board through formal and informal channels, synchronously or asynchronously in their capacity as Committee members
     * Give feedback on and approve annual reports and the organisation’s transparency documents.
     * Evaluate the strategic orientation of the OLS Team and provide constructive feedback to align OLS' work to their goals and priorities.
 7. **Election Process:**
@@ -68,11 +68,14 @@ Three months before the ending (end of a 2-year term), members will be asked to 
 
 ### Continuation of membership after a first full term
 
-* At the end of 1 year of their service, a committee member can decide to continue their membership for another 6-12 months (going up to 2 years).
-   * Members will indicate their preference for membership extension at a Governance Committee meeting and get internal approval from the rest of the Committee members.
-   * This staggered rotating off will be encouraged to avoid the whole board rotating off all at once. The Committee liaison will record the continuation of membership for additional months. No further action is required. 
-* The maximum term length is 2 years, after which a Committee member can re-enter the open election, but will not be automatically extended for one more full term (another 2 years). A third-time entry to the election should be avoided. This will allow a fair opportunity for community members interested in joining the Committee.
-* A member can step down at any time from the Committee if they can no longer serve as a member of the Committee.
+* A committee member can indicate the continuation of their membership until the end of their official term length, which is 2 years.
+   * Different board members can step down at different times. This will be encouraged to help avoid the entire board rotating off all at once.
+* If committee members are involved in an OLS project as part of their role and require additional months (3-6 months beyond the 2 years) to complete or hand over responsibilities, they can raise the matter in a Committee meeting for a case-by-case discussion.
+   *  Short-term extensions of service should not exceed an additional 6 months and must be approved by the Committee. The Committee liaison will record the continuation of membership for additional months, and no further action is required.
+* A member can step down from the Committee at any time if they can no longer serve.
+  * If stepping down earlier, members will indicate their preference at a Governance Committee meeting. The Committee liaison will record the intent and begin an offboarding process.
+* After completing their term length, Committee members can re-enter the open election the second time.
+   * An individual can serve for a maximum of two full-term lengths, which is 4 years. A third-time entry into the election should be avoided to ensure a fair opportunity for community members interested in joining the Committee.
 
 ### Stepping down as a Committee Member
 
