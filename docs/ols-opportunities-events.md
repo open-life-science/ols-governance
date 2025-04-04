@@ -1,8 +1,8 @@
 # Opportunities and Events
 
-These various roles within OLS communities allow member to participate in various capacities. Events and opportunities are designed to facilitate training, experiential learning and discussions around open science that embeds contextual realities of our members as they create, share, access or collaborate on open science projects, resources and infrastructure.
+These various roles within OLS communities allow members to participate in various capacities. Events and opportunities are designed to facilitate training, experiential learning and discussions around open science that embed contextual realities of our members as they create, share, access or collaborate on open science projects, resources and infrastructure.
 
-To enable collaboration of diverse community members, OLS offers following opportunities and events:
+To enable the collaboration of diverse community members, OLS offers the following opportunities and events:
 
 ## OLS Extended Membership
 
@@ -10,18 +10,18 @@ To enable collaboration of diverse community members, OLS offers following oppor
     * Reina Camacho Toro
     * Melissa Black
     * Andrea Sanchez Tapia
-2. **Internship network**
-    * Outreachy Interns
+2. **Fellowship and Internship network**
+    * Resident Fellows and Interns such as through Outreachy and other similar programmes
     * Direct internship with OLS
 3. **Working groups, task forces and Community-led Research**: Different working groups and task forces are organised based on different needs emerging in the project:
     * Localisation 2021
-        * Batool Almarzouq and Anelda van der Walt established a localisation workflow to translate and disseminate OLS materials for learners in Middle East and North African countries
+        * Batool Almarzouq and Anelda van der Walt established a localisation workflow to translate and disseminate OLS materials for learners in the Middle East and North African countries
     * OLS-based Cohort project (data and survey analysis): 2021-present
         * Burce Elbasen
         * Muhammet Celik
         * Saranjeet Kaur
         * Isil Bilgin
-    * Hiring committee 2022 (OLS) and 2023 (ECB): Recruitment process in 2022 included OLS team and the following community members:
+    * Hiring committee 2022 (OLS) and 2023 (ECB/Catalyst): The recruitment process in 2022 included the OLS team and the following community members:
         * Recruitment advisor: Rowland Mosbergen
         * Application reviewers and shortlisting: Raniere Silva, Lily Winfree, Pauline Karega
         * Interview panel: Laura Ación, Irene Ramos, Bruno Soares
@@ -29,7 +29,7 @@ To enable collaboration of diverse community members, OLS offers following oppor
 
 ### Open Seeds' Cohort-based roles
 
-16-week long cohorts of open science training and mentoring are the main services offered by OLS. The participant structure of cohort calls include the following:
+16-week-long cohorts of open science training and mentoring are the main services offered by OLS. The participant structure of cohort calls includes the following:
 
 1. Cohort organisers
 2. Cohort call facilitators
@@ -40,7 +40,7 @@ To enable collaboration of diverse community members, OLS offers following oppor
 
 All graduates are called OLS fellows and can use OLS affiliation for funding, publication or any other public engagement activities.
 
-### Cohort specific opportunities
+### Cohort-specific opportunities
 
 Find details: [https://openlifesci.org/about](https://openlifesci.org/about) 
 
@@ -58,15 +58,3 @@ Find details: [https://openlifesci.org/about](https://openlifesci.org/about)
 2. Communication platforms (Slack, shared documents)
 3. Representing OLS in external platforms
 4. Coworking calls and social opportunities through online cafeteria weekly
-
-### Aim to maintain representation from different continents where our current community members join from.
-
-* Asia
-* Africa
-* Europe
-* Latin America
-* Middle East
-* New Zealand and Australia
-* North Americas
-
-A link to Shinyapp to browse the cohorts' geographical distribution will be added here.
