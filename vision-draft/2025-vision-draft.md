@@ -9,7 +9,7 @@ This draft of values has been developed using feedback and input from the OLS Te
 
 We have opened the draft for review and are currently accepting comments from our community via a Google Document - [shared in comment mode](https://docs.google.com/document/d/1SeAqomXt_ZrTYUQydOmqLgnI8tGxtCpr22Wu9xm5Y9g/edit?tab=t.0).
 
-Details for the review process have been provided on the [issue #12](https://github.com/open-life-science/ols-governance/issues/12) and a blog post will be shared on our website](https://we-are-ols.org/posts.html).
+Details for the review process have been provided on the [issue #12](https://github.com/open-life-science/ols-governance/issues/12) and a blog post will be [shared on our website](https://we-are-ols.org/posts.html).
 
 ## Organisation Framework to Guide Our Areas of Work
 
