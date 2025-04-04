@@ -43,7 +43,7 @@ Below we describe each of these values in two important contexts where our value
        * After community review, OLS will develop strategies for implementing each value. 
    * **Continual evaluation:** Values and their operationalisation are subjective and change with time. With recommendations and involvement from our Governance Committee, OLS will therefore create a space for continual evaluation of its values, and how they are being put into practice.
 
-#### Value Description
+### Value Description
 
 * **Openness:**
     * **Community-wide:** OLS champions transparency through accessible resources, clear processes, and a commitment to 'as open as possible, as closed as necessary.' We strive to democratise knowledge and empower participation by making our work visible and understandable.
