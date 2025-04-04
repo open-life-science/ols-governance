@@ -6,7 +6,7 @@ This draft of values has been developed using feedback and input from the OLS Te
 
 ## Organisation Framework to Guide Our Areas of Work
 
-![OLS's organisation pillars include open leadership, open research and open incubation](2025-03-ols-pillar-draft.png)
+![OLS's organisation pillars include open leadership, open research and open incubation](../figures/2025-03-ols-pillar-draft.png)
 
 ## Proposed values
 
