@@ -30,11 +30,11 @@ These are critical for making sense of the terms commonly used in governance and
 
 Second, take notes on the points that will help get you “up to speed” in your role as an OLS key member, referring back regularly to the handbook as you familiarise yourself with your new role.
 
-Third, **review the guidance for onboarding from part 1 continuing to part 4** with checklists, ensuring that **you have access to information **and documents that have been provided for the work of the Governance Committee.
+Third, **review the guidance for onboarding from part 1 continuing to part 4** with checklists, ensuring that **you have access to information** and documents that have been provided for the work of the Governance Committee.
 
-In the **part-1,** you will learn about different resources OLS has that offer information about the organisation. In the **part-2,** we give governance-related information shared across different documents – you are NOT required to read them all at the onboarding stage - i.e. before the kick off meeting.  ***For the inaugural cohort, we will breakdown the reading and review of these documents.*** 
+In the **part-1,** you will learn about different resources OLS has that offer information about the organisation. In the **part-2,** we give governance-related information shared across different documents – please take the time you need to review them to facilitate your participation.
 
-In the **part-3, **of your onboarding, we ask you to please send details required to confirm your participation via the** [Declaration of Participation form](https://forms.gle/VWJfNoc5HUkQBNs89). **Please also send details required to record your current engagements across different projects via the** [Declaration of Conflict of Interest form](https://forms.gle/r2bhsPFvzdeq3VXH8). **Check your access to different resources available to you in **part-4**.
+In the **part-3** of your onboarding, we ask you to please send details required to confirm your participation via the** [Declaration of Participation form](https://forms.gle/VWJfNoc5HUkQBNs89). Please also send details required to record your current engagements across different projects via the [Declaration of Conflict of Interest form](https://forms.gle/r2bhsPFvzdeq3VXH8). Check your access to different resources available to you in **part-4**.
 
 Finally, review out offboarding handbook, provided in a separate document.
 
