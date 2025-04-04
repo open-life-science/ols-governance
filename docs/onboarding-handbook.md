@@ -25,7 +25,7 @@ Please email [directors@we-are-ols.org](mailto:directors@we-are-ols.org) to ask 
 
 ## How to use this handbook				
 
-First, read the [definitions and abbreviation document](https://docs.google.com/document/d/1MipWr6-qY8uOGVrEldZy2IZ1Vjm9bS1PZOzIorrXFoE/edit#heading=h.o9cqpadm318m). 
+First, read the [definitions and abbreviation document](https://github.com/open-life-science/ols-governance/blob/main/docs/definitions-and-abbreviations.md). 
 These are critical for making sense of the terms commonly used in governance and organisational management.
 
 Second, take notes on the points that will help get you “up to speed” in your role as an OLS key member, referring back regularly to the handbook as you familiarise yourself with your new role.
@@ -48,9 +48,7 @@ The contents of this handbook are based on legislative requirements and relevant
 
 ## Governance resources
 
-OLS is a non-profit organisation for open science training and capacity building. OLS community has engaged 400+ open science learners and practitioners from across the globe through its Open Seeds training and mentoring programme. OLS is committed to improve participation of marginalised and underrepresented communities in open science and research more broadly. The OLS Core team includes an Executive Director; three Co-Directors; two full time employees, and two Resident Fellows, working across different projects in varying capacities (see 
-
-[their specific roles](https://docs.google.com/document/d/1EUHvYv5wvZiJSK4yYDwwDHs9Ds6tCjqB3XezqCaetEI/edit#heading=h.z4btaswsbn2d)). For any question, concern or additional details, please email [team@we-are-ols.org](mailto:team@we-are-ols.org), or directly contact the Directors ([directors@we-are-ols.org](mailto:directors@we-are-ols.org)).   
+OLS is a non-profit organisation for open science training and capacity building. OLS community has engaged 400+ open science learners and practitioners from across the globe through its Open Seeds training and mentoring programme. OLS is committed to improve participation of marginalised and underrepresented communities in open science and research more broadly. The OLS Core team includes an Executive Director; three Co-Directors; two full time employees, and two Resident Fellows, working across different projects in varying capacities (see [their specific roles](https://docs.google.com/document/d/1EUHvYv5wvZiJSK4yYDwwDHs9Ds6tCjqB3XezqCaetEI/edit#heading=h.z4btaswsbn2d)). For any question, concern or additional details, please email [team@we-are-ols.org](mailto:team@we-are-ols.org), or directly contact the Directors ([directors@we-are-ols.org](mailto:directors@we-are-ols.org)).   
 
 In the process of formalising the OLS governance, we are drawing community leaders from the alumni network to form a Governance Committee. The composition of the Governance Committee will include individuals and representatives from the community and partnering organisations, ensuring representation of diverse technical expertise, individual experience and geographical perspectives.
 
