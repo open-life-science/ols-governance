@@ -2,7 +2,7 @@
 
 ## **OLS Core Team**
 
-Board members, OLS staff and Resident Fellows together constitute the OLS Core team: [https://openlifesci.org/community](https://openlifesci.org/community). 
+Board members, OLS staff and Resident Fellows together constitute the OLS Core team: https://we-are-ols.org/community.html
 
 1. **Board of Directors**: The people collectively responsible for governing and leadership of our organisation through strategic policy direction and financial oversight. They carry out their role in conjunction with an advisory committee and other key members of their organisation. In this document, we use “core team” to refer to the Board of Directors.
 2. **OLS Staff/Employee**: All paid members (full or part-time positions) as Directors, programme/project managers and researchers are considered OLS staff. Currently, this includes the Executive Director, Co-Directors, Programme Manager, Community Coordinator and Researchers, and excludes the Resident Fellows and/or board of directors who are not paid (as employees or via contracts).
