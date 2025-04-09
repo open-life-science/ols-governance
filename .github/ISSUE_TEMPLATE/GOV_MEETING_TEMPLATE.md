@@ -1,5 +1,5 @@
 ---
-name: "\u2728 Governance Meeting"
+name: "\u1F4DD Governance Meeting"
 about: Governance Advisory Committee Meeting Organisation
 title: [YYYYMMDD] Governance Advisory Committee Meeting Checklist
 labels:
