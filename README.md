@@ -40,7 +40,7 @@ The OLS Governance Advisory Committee (referred to as ‘Committee’ hereafter)
 1. **Selection and invitation:**
     * Invite individuals who have taken active leadership, collaborative or advisory roles in OLS. Names suggested and agreed by the Committee and/or executive leadership, considering diverse representations and areas of work. 
 2. **Collaborative Definition of Scope:**
-    * Hold meetings and collaborative processes involving the Committee members and the Exec leadership to define the scope and ways of working for the Committee.
+    * Hold meetings and collaborative processes involving the Committee members and the Executive leadership to define the scope and ways of working for the Committee.
     * Encourage open dialogue and diverse perspectives and finalise how the Committee will have an overview of OLS work.
     * Publish the reviewed documents for public access and invite comments from the OLS community.
 
