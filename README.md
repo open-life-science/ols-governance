@@ -2,7 +2,7 @@
 
 OLS (formerly Open Life Science) is a non-profit organisation for open science training and capacity building. OLS community has engaged 400+ open science learners and practitioners from across the globe through its Open Seeds training and mentoring programme. OLS is committed to improving the participation of marginalised and underrepresented communities in open science and research more broadly. The OLS Core team includes an Executive Director; three Co-Directors; two full-time employees, and two Resident Fellows, working across different projects in varying capacities (read details in [OLS Team and Organisation](docs/ols-team-organisation.md))
 
-For any questions, concerns or additional details, please email [team@openlifesci.org](mailto:team@openlifesci.org), or directly contact the Directors ([directors@openlifesci.org](mailto:directors@openlifesci.org)).
+For any questions, concerns or additional details, please email [team@we-are-ols.org](mailto:team@we-are-ols.org), or directly contact the Directors ([directors@we-are-ols.org](mailto:directors@we-are-ols.org)).
 
 As a community-based project, OLS draws mentors, facilitators and experts from the OLS community to support the mentees onboarded for each round of the training and mentoring programme (Open Seeds). We provide honoraria, microgrants and seed funding available to all participants to support and incentivise their contributions to Open Science.
 
@@ -10,9 +10,9 @@ As a community-based project, OLS draws mentors, facilitators and experts from t
 
 *Slide source: Sharan, M., & Sánchez-Tapia, A. (2022). Community Governance: Representation & Intersectionality with examples from Open Science Community. Zenodo. doi: [10.5281/zenodo.7038553](https://zenodo.org/record/7038553#.ZCMpYrTMKrM). [slide 24](https://docs.google.com/presentation/d/1Bg5DZt6Umh7j6LNFa1onojMow3fbUb27/edit#slide=id.g14864fe2eab_0_551)*
 
-## OLS Governance Committee
+## OLS Governance Advisory Committee
 
-The OLS Governance Committee (referred to as ‘Committee’ hereafter) is a dedicated group of individuals appointed to provide strategic oversight and guidance in shaping the governance framework of OLS. This committee provides advisory support in decision-making, transparency, and sustainability within OLS. 
+The OLS Governance Advisory Committee (referred to as ‘Committee’ hereafter) is a dedicated group of individuals appointed to provide strategic oversight and guidance in shaping the governance framework of OLS. This committee provides advisory support in decision-making, transparency, and sustainability within OLS. 
 
 ### Committee Members: June 2023-Present
 
@@ -27,28 +27,28 @@ The OLS Governance Committee (referred to as ‘Committee’ hereafter) is a ded
 * Saranjeet Kaur Bhogal, RSE Asia Association and Research Software Alliance, India
 * Stephen Klusza, Clayton State University as an assistant professor of Biology, USA
 
-### Organisation Liaisons and Secretary
+### Organisation Contacts
 
 * Patricia Herterich, Organisation Secretary
-
 * Malvika Sharan, Organisation Liaison
 * Yo Yehudi, Organisation Liaison
+* Tajuddeen Gwadabe, Project manager
 
 ## Framework for Community Involvement (2023-2025)
 
 ### **Phase 1: Inviting Leaders for Developing Ways of Working - 2023**
 
 1. **Selection and invitation:**
-    * Invite individuals who have taken active leadership, collaborative or advisory roles in OLS. Names suggested and agreed by the OLS Board, considering diverse representations and areas of work. 
+    * Invite individuals who have taken active leadership, collaborative or advisory roles in OLS. Names suggested and agreed by the Committee and/or executive leadership, considering diverse representations and areas of work. 
 2. **Collaborative Definition of Scope:**
-    * Hold meetings and collaborative processes involving the Committee members and the Board to define the scope and ways of working for the Committee.
+    * Hold meetings and collaborative processes involving the Committee members and the Executive leadership to define the scope and ways of working for the Committee.
     * Encourage open dialogue and diverse perspectives and finalise how the Committee will have an overview of OLS work.
     * Publish the reviewed documents for public access and invite comments from the OLS community.
 
 ### **Phase 2: Governance Committee's Role in Improving Transparency - 2024**
 
 1. **Feedback and Recommendations:**
-    * Establish a regular feedback loop between the Governance Committee and the OLS Board.
+    * Establish a regular feedback loop between the Governance Committee and the OLS leadership.
     * Encourage proactive suggestions for improving transparency in OLS leadership and operations.
     * Build transparency by sharing summaries from the meetings for the broader community.
 2. **Sustainability Focus:**
@@ -101,7 +101,7 @@ These principles aim to promote transparency, inclusivity, and continuous improv
 * 1-2 Years. Upon completion of 1 year, members will have an opportunity to renew their membership for up to 12 months. Maximum term length is 2 years.
 * Members can step down at any time - following the offboarding process.
 * Upon completion of 2-year terms, existing members can be nominated/self-nominated for election for one more term. Service after two full terms (4 years maximum) won’t be possible.
-* We encouraged staggered terms (some members opting to stay on the Committee) to avoid the entire board rotating off simultaneously and losing the institutional memory.
+* We encouraged staggered terms (some members opting to stay on the Committee) to avoid the entire committee rotating off simultaneously and losing the institutional memory.
 
 **Time Commitment:**
 
@@ -110,12 +110,13 @@ These principles aim to promote transparency, inclusivity, and continuous improv
 
 **Legal Status:**
 
-* Roles are voluntary, and honoraria can be provided within the budget allocated by the Executive Director in agreement with our finance officer.
+* Roles are **voluntary**, and honoraria can be provided within the budget allocated by the Executive Director in agreement with our finance officer.
 * An accessibility fund will be made available to ensure that Committee members can participate in carrying out their responsibilities.
+* Governance advisory committee members are not legally responsible for OLS; the directors are listed on [Companies House](https://find-and-update.company-information.service.gov.uk/company/12824090).
 
 **OLS Team Support for the Committee:**
 
-* Support will provided by the organisation Liaison (1-2 Board members) and Secretariat in managing logistics, facilitating knowledge exchange and directing timely feedback to and from the OLS team.
+* Support will provided by the organisation Liaison (1-2 executive leadership members) and Secretariat in managing logistics, facilitating knowledge exchange and directing timely feedback to and from the OLS team.
 * The level of involvement from the OLS Team will be determined by the Governance Committee based on the desired level of support.
 
 ## Updates from the Governance Process
@@ -146,44 +147,12 @@ This repository is developed by Dr. Malvika Sharan and reviewed and maintained b
 🎯 Roadmap
 ---
 
-**For the repository**
-
-- [x] Add a README file
-- [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [x] Add a [LICENSE](LICENSE.md)
-- [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [x] Install [all-contributors](https://allcontributors.org/) bot
-- [x] .gitignore file (choose from a template)
-- [x] Issue templates
-
-**Project management directory**
-* [x] Capture OLS status overview and OLS team information
-* [x] List of projects and reports
-* [x] Extended members and community
-* [x] OLS opportunities and events
-* [x] 2023 governance proposal
-* [x] Recruitment process of members in governance group
-* [x] Onboarding process and documents
-* [x] Timeline for engagement
-* [x] Governance documentation
-* [ ] Set process for transparency for the community feedback
-
-**Logistics: Recruitment and onboarding**
-
-* [x] Outline the plans for the governance
-* [x] Invite nomination from the OLS team for who should be invited in the first iteration
-* [x] Get the OLS team to review the proposal and documents
-* [x] Send invitation
-* [x] Onboard them by sharing the onboarding document
-* [x] Gather declaration for CoI and Participation
-* [x] Set up the initial meeting and identify the next steps
-* [x] Phase 1: Initial work with individual groups on setting resources and directions for their areas of work
-* [ ] Phase 2: Start recommendation and feedback from January 2024
+[Visit our roadmap project board](https://github.com/orgs/open-life-science/projects/12)
 
 📫 Contact
 ---
 
-For any organisation-related queries or concerns, you can directly reach out to Malvika Sharan by emailing [malvika@openlifesci.org](mailto:malvika@openlifesci.org).
+For any organisation-related queries or concerns, you can directly reach out to Malvika Sharan by emailing [malvika@we-are-ols.org](mailto:malvika@we-are-ols.org).
 
 ♻️ License
 ---
