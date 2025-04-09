@@ -15,7 +15,7 @@ Anonymity is not supported in either mode. For anonymous feedback, the Committee
 
 **Tied Votes:** In the event of tied alternatives, the Board of Directors will be responsible for resolving the issue by casting a vote between the tied options.
 
-**Red Flags:** As a remedy in exceptional situations where active Committee members believe that the issues addressed or submitted to vote do not or may not comply with OLS’s goals or values, they can activate this mechanism. To do so, they must email the full Committee via Slack or Email within 5 working days. The issue must then be discussed again asynchronously, in a scheduled meeting, or in an extraordinary meeting.
+**Red Flags:** As a remedy in exceptional situations where active Committee members believe that the issues addressed or submitted to vote do not or may not comply with OLS’s goals or values, they can activate this mechanism. To do so, they must contact the full Committee via Slack or Email within 5 working days. The issue must then be discussed again asynchronously, in a scheduled meeting, or in an extraordinary meeting.
 
 **Involving the Community in Decision-Making:** Decisions and recommendations on matters affecting the entire community should be open for community discussion before final approval. In such cases, a dedicated GitHub issue will be created, describing the matter, sharing relevant resources, and outlining a process for community members to express their concerns, feedback, and recommendations. The voting process and timeline will be explicitly announced via an OLS blog post, cross-posted to the OLS community Slack channel.
 
