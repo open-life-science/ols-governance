@@ -27,11 +27,12 @@ The OLS Governance Advisory Committee (referred to as ‘Committee’ hereafter)
 * Saranjeet Kaur Bhogal, RSE Asia Association and Research Software Alliance, India
 * Stephen Klusza, Clayton State University as an assistant professor of Biology, USA
 
-### Organisation Liaisons and Secretary and executive leadership
+### Organisation Contacts
 
 * Patricia Herterich, Organisation Secretary
 * Malvika Sharan, Organisation Liaison
 * Yo Yehudi, Organisation Liaison
+* Tajuddeen Gwadabe, Project manager
 
 ## Framework for Community Involvement (2023-2025)
 
@@ -115,7 +116,7 @@ These principles aim to promote transparency, inclusivity, and continuous improv
 
 **OLS Team Support for the Committee:**
 
-* Support will provided by the organisation Liaison (1-2 exec leadership members) and Secretariat in managing logistics, facilitating knowledge exchange and directing timely feedback to and from the OLS team.
+* Support will provided by the organisation Liaison (1-2 executive leadership members) and Secretariat in managing logistics, facilitating knowledge exchange and directing timely feedback to and from the OLS team.
 * The level of involvement from the OLS Team will be determined by the Governance Committee based on the desired level of support.
 
 ## Updates from the Governance Process
