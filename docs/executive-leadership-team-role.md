@@ -27,7 +27,7 @@ They provide a direct line of contact between the Committee and the wider OLS st
 
 ## Platforms and Process for Coordination
 
-The OLS Executive Leadership Team will use [an open GitHub repo](https://github.com/open-life-science/ols-governance/) to share governance resources for public access. GitHub's Issue and Pull Request features will be used for voting, asynchronous discussions, community review, and transparency, as described in the [decision making process](docs/decision-making-process) guidance document. 
+The OLS Executive Leadership Team will use [an open GitHub repository](https://github.com/open-life-science/ols-governance/) to share governance resources for public access. GitHub's Issue and Pull Request features will be used for voting, asynchronous discussions, community review, and transparency, as described in the [decision-making process](https://github.com/open-life-science/ols-governance/blob/main/docs/decision-making-process.md) guidance document. 
 
 Resources intended for internal access by the Committee will be shared via Google Drive and a private GitHub repository, as agreed with the Committee.
 
@@ -35,7 +35,7 @@ A project board and GitHub issues will be used for managing, assigning, and trac
 
 ## Task List For Managing Each Meeting
 
-This checklist will guide different tasks and responsibilities to manage meetings with the Committee, such as via GitHub issues.
+This checklist will guide different tasks and responsibilities in managing meetings with the Committee, such as via GitHub issues.
 
 ### Before the Meeting
 
