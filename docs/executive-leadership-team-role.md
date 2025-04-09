@@ -27,7 +27,7 @@ They provide a direct line of contact between the Committee and the wider OLS st
 
 ## Platforms and Process for Coordination
 
-The OLS Executive Leadership Team will establish a GitHub repository where all governance resources for public access will be shared openly. GitHub's Issue and Pull Request features will be used for voting, asynchronous discussions, community review, and transparency.
+The OLS Executive Leadership Team will use [an open GitHub repo](https://github.com/open-life-science/ols-governance/) to share governance resources for public access. GitHub's Issue and Pull Request features will be used for voting, asynchronous discussions, community review, and transparency, as described in the [decision making process](docs/decision-making-process) guidance document. 
 
 Resources intended for internal access by the Committee will be shared via Google Drive and a private GitHub repository, as agreed with the Committee.
 
