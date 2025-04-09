@@ -1,6 +1,6 @@
 # OLS Executive Leadership Team's Responsibilities
 
-Members of the Board of Directors (especially in paid roles) and other executive leaders (as defined in the OLS's team handbook) will support the functioning of the Governance Advisory Committee (Committee). A non-board member will be appointed as Organisation Secretary to support governance responsibilities.
+Members of the [Board of Directors as defined in Companies House](https://find-and-update.company-information.service.gov.uk/company/12824090/officers) (especially in paid roles) and other executive leaders (as defined in the OLS team handbook) will support the functioning of the Governance Advisory Committee (Committee). A non-board member will be appointed as Organisation Secretary to support governance responsibilities.
 
 Together with the Committee, they are responsible for OLS's governance, community involvement, and decision-making.
 
