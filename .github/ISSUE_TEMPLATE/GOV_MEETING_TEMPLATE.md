@@ -1,7 +1,7 @@
 ---
-name: "\u1F4DD Governance Meeting"
+name: "\U0001F4DD Governance Meeting"
 about: Governance Advisory Committee Meeting Organisation
-title: [YYYYMMDD] Governance Advisory Committee Meeting Checklist
+title: "[YYYYMMDD] Governance Advisory Committee Meeting Checklist"
 labels:
 assignees: ''
 
@@ -11,7 +11,7 @@ assignees: ''
 💙 Thank you for opening this issue. Please complete the following sections by providing relevant information. If you have the write access to the repository please also assign the appropriate label (or labels) to your issue. Note that text within HTML comment tags (starting with < and ending with >) will not be rendered.
 -->
 
-The following checklist is to organise Governance Advisory Committee meetings.
+The following checklist is to help organise Governance Advisory Committee meetings.
 
 - Date:
 
