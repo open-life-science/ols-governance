@@ -62,7 +62,7 @@ This checklist will guide different tasks and responsibilities to manage meeting
 
 ### After the Meeting
 
-* [ ] **Share Meeting Materials:** Distribute the meeting notes and any recordings.
+* [ ] **Share Meeting Materials:** Distribute the meeting notes and any recordings. Recordings are shared privately with governance members and are indexed in the [private governance repo](https://github.com/open-life-science/governance-internal) to ensure people feel comfortable speaking freely during governance meetings. Governance meeting follow-up template: https://github.com/open-life-science/governance-internal/issues/new/choose 
 * [ ] **Update Project Board:** Transfer all action items and recommendations requiring further action to the GitHub project board.
 * [ ] **Assign and Timeline Tasks:** Assign tasks to individuals with appropriate deadlines.
 * [ ] **Follow Up on Tasks:** Review and act on the task list, seeking support where needed.
