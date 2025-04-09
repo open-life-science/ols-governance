@@ -13,7 +13,7 @@ Anonymity is not supported in either mode. For anonymous feedback, the Committee
 
 **Committee’s Decision-Making:** Decisions will require approval by at least a two-thirds affirmative vote of active Committee members. It is crucial to understand that the Committee's decision-making process allows them to make recommendations, while the OLS Board of Directors retains final responsibility for actions affecting the organisation's activities.
 
-**Tied Votes:** In the event of tied alternatives, the Board of Directors will be responsible for resolving the issue by casting a vote between the tied options.
+**Tied Votes:** In the event of an indecisive voting outcome from the Governance Advisory Committee's voting process, the OLS Executive Leadership will be responsible for resolving the issue by either casting a vote between the tied options or assessing additional inputs from the OLS staff and community.
 
 **Red Flags:** As a remedy in exceptional situations where active Committee members believe that the issues addressed or submitted to vote do not or may not comply with OLS’s goals or values, they can activate this mechanism. To do so, they must contact the full Committee via Slack or Email within 5 working days. The issue must then be discussed again asynchronously, in a scheduled meeting, or in an extraordinary meeting.
 
