@@ -1,6 +1,6 @@
 # Open Life Science (OLS) Governance Overview
 
-OLS (formerly Open Life Science) is a non-profit organisation for open science training and capacity building. OLS community has engaged 400+ open science learners and practitioners from across the globe through its Open Seeds training and mentoring programme. OLS is committed to improving the participation of marginalised and underrepresented communities in open science and research more broadly. The OLS Core team includes an Executive Director; three Co-Directors; two full-time employees, and two Resident Fellows, working across different projects in varying capacities (read details in [OLS Team and Organisation](docs/ols-team-organisation.md))
+OLS (formerly Open Life Science) is a non-profit organisation for open science training and capacity building. OLS community has engaged 400+ open science learners and practitioners from across the globe through its Open Seeds training and mentoring programme. OLS is committed to improving the participation of marginalised and underrepresented communities in open science and research more broadly. The OLS Core team includes an Executive Director; three Co-Directors; employees, and Resident Fellows, working across different projects in varying capacities (read details in [OLS Team and Organisation](https://we-are-ols.org/community.html))
 
 For any questions, concerns or additional details, please email [team@we-are-ols.org](mailto:team@we-are-ols.org), or directly contact the Directors ([directors@we-are-ols.org](mailto:directors@we-are-ols.org)).
 
@@ -19,9 +19,8 @@ The OLS Governance Advisory Committee (referred to as ‘Committee’ hereafter)
 * Anelda van der Walt, Talarify and RSSE Africa, South Africa
 * Batool Almarzouq, representing Open Science Saudi Arabia, UK
 * Esther Plomp, TU Delft, The Netherlands
-* Hao Ye, University of Pennsylvania / Community for Rigor, USA
-* Laura Ación, MetaDocencia, Argentina 
 * Laurah Ondari, Bioinformatics Hub of Kenya initiative (BHKi), Kenya
+* Nicolás Palopoli, Universidad Nacional De Quilmes & Conicet, Argentina 
 * Rowland Mosbergen, Practical Diversity and Inclusion Project, Australia
 * Sara El Gebali, FAIRPoints Project, Sweden
 * Saranjeet Kaur Bhogal, RSE Asia Association and Research Software Alliance, India
