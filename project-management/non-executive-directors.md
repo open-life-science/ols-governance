@@ -16,7 +16,7 @@
 * Collaborate with the Executive Directors to drive strategic direction and define strategy and goals aligned with the OLS’s values and mission.
 * Support the Executive Directors by managing expectations consistent with OLS's strategic priorities and ensuring adequate resources are available for staff to implement strategy and goals.
 * Represent OLS by attending open science events on its behalf, contributing to communications efforts through online presence, and participating in community discussions while upholding the responsibilities outlined in this document.
-* Although not involved in the day-to-day running of the business, they may assume other specific roles defined and agreed with the Executive Directors based on availability, subject-matter expertise and/or organisational needs.
+* Although not involved in the day-to-day running of the business, they may assume other specific roles defined and agreed upon with the Executive Directors based on availability, subject-matter expertise, and/or organisational needs.
 * Contribute to the annual review of the organisational operations and financial planning, budgeting, and reporting processes.
 * Provide information by established deadlines to enable Executive Directors to make timely decisions in the best interest of OLS.
 
@@ -38,7 +38,7 @@
 
 **How is this role different from the Governance Advisory Committee in OLS?**
 
-The Non-Executive Director roles are assumed by co-founders or previous Executive Directors. Their involvement should help maintain** institutional memory, embedding a deep understanding of long-term vision and sharing firsthand experience** with the operational and strategic challenges faced during the organisation's development. Their primary function is to provide advice, support and strategic guidance. They **may have direct involvement or leadership within defined areas where requested or approved by the Executive Directors**, ensuring that operations and decisions align with the core values and mission of OLS.
+The Non-Executive Director roles are assumed by co-founders or previous Executive Directors. Their involvement should help maintain **institutional memory, embedding a deep understanding of long-term vision and sharing firsthand experience** with the operational and strategic challenges faced during the organisation's development. Their primary function is to provide advice, support and strategic guidance. They **may have direct involvement or leadership within defined areas where requested or approved by the Executive Directors**, ensuring that operations and decisions align with the core values and mission of OLS.
 
 The OLS Governance Advisory Committee is comprised of individuals who are elected and appointed directly from the broader OLS community. The committee's primary role is to offer **transparency, accountability and advisory support** across all OLS operations, and to support the long-term sustainability of the organisation.[ OLS governance documentation](https://github.com/open-life-science/ols-governance) provides guidelines and a community-informed approach to ensuring governance improvement in OLS.
 
